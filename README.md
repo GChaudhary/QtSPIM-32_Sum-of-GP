@@ -1,0 +1,1 @@
+# QtSPIM-32_Sum-of-GP
